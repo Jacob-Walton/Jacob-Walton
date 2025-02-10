@@ -1,8 +1,9 @@
 # Jacob Walton
 
-[![GitHub followers](https://img.shields.io/github/followers/Jacob-Walton?style=social)](https://github.com/Jacob-Walton)
-[![Email](https://img.shields.io/badge/Email-jacob--walton%40konpeki.co.uk-blue)](mailto:jacob-walton@konpeki.co.uk)
-[![Profile Views](https://komarev.com/ghpvc/?username=Jacob-Walton&color=blueviolet)](https://github.com/Jacob-Walton)
+[![GitHub followers](https://img.shields.io/github/followers/Jacob-Walton?style=for-the-badge&logo=github&labelColor=black&color=1e4c68)](https://github.com/Jacob-Walton)
+[![GitHub stars](https://img.shields.io/github/stars/Jacob-Walton?style=for-the-badge&logo=github&labelColor=black&color=1e4c68)](https://github.com/Jacob-Walton)
+[![Email](https://img.shields.io/badge/Email-jacob--walton%40konpeki.co.uk-1e4c68?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:jacob-walton@konpeki.co.uk)
+[![Profile Views](https://komarev.com/ghpvc/?username=Jacob-Walton&style=for-the-badge&color=1e4c68)](https://github.com/Jacob-Walton)
 
 ## Introduction
 
