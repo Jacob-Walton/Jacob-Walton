@@ -5,9 +5,9 @@
 [![Email](https://img.shields.io/badge/Email-jacob--walton%40konpeki.co.uk-1e4c68?style=for-the-badge&logo=gmail&logoColor=white&labelColor=black)](mailto:jacob-walton@konpeki.co.uk)
 [![Profile Views](https://komarev.com/ghpvc/?username=Jacob-Walton&style=for-the-badge&color=1e4c68)](https://github.com/Jacob-Walton)
 
-## Introduction
+## About Me
 
-I'm Jacob, a student developer who likes building backend systems and web applications. Currently focused on creating efficient and scalable backend solutions and exploring new technologies.
+Backend developer who likes working with APIs, databases, and system architecture.
 
 ### Languages & Frameworks
 
