@@ -7,7 +7,7 @@
 
 ## About Me
 
-Backend developer who likes working with APIs, databases, and system architecture.
+Full-stack developer who likes working with APIs, databases, and system architecture.
 
 ### Languages & Frameworks
 
@@ -38,6 +38,7 @@ Backend developer who likes working with APIs, databases, and system architectur
 
 ![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)
 ![Azure](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)
+![AWS](https://img.shields.io/badge/Amazon_Web_Services-FF9900?style=for-the-badge&logo=amazon-web-services&logoColor=white)
 
 ### Operating Systems
 
@@ -49,17 +50,13 @@ Backend developer who likes working with APIs, databases, and system architectur
 
 ## Featured Project
 
-### Around Nippon
+### Bus Info
 
-A Japan travel website designed to help travelers explore and plan their Japanese adventures.
+A web application designed to provide easy to access bus information and predictions to students.
 
-- **Tech Stack:** Next.JS, TypeScript, PostgreSQL, Prisma
+- **Tech Stack:** ASP.NET Core, .NET, PostgreSQL, Redis
 - **Status:** In Development
-- **Features:**
-  - Interactive travel planning
-  - Custom itinerary creation
-  - User authentication and profiles (profile WIP)
-- [View Project](https://github.com/Jacob-Walton/around-nippon)
+- [View Project](https://github.com/Jacob-Walton/buses-info)
 
 ## Collaboration
 
