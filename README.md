@@ -10,7 +10,7 @@
 
 ## Technologies
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,scss,js,ts,nextjs,python,go,c,cpp,cs,dart,aws,azure,docker,heroku,git,dotnet,mongodb,postgres,redis,flutter&perline=22)](https://www.konpeki.co.uk/)
+[![My Skills](https://skillicons.dev/icons?i=rust,cs,python,go,js,ts,html,css,scss,nextjs,docker,heroku,aws,azure,dotnet,mongodb,postgres,redis,git&perline=22)](https://www.konpeki.co.uk/)
 
 ## Featured Project
 
